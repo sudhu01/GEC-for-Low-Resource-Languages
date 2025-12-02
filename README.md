@@ -4,6 +4,8 @@
 
 This repository contains two Jupyter notebooks that explore a challenging machine learning experiment implemented in both **Malayalam** and **Tamil**. The notebooks are structured to help students understand ML workflows through a regional-language–friendly explanation and implementation.
 
+Acheived a GLEU Score of **0.6327** for Malayalam and **0.469** for Tamil
+
 ---
 
 ## 📘 Contents
